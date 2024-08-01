@@ -23,3 +23,5 @@ Installation
 
 Prerequisited
 poppler library (link to download : https://github.com/oschwartz10612/poppler-windows)
+
+Linkedln link:https://www.linkedin.com/posts/activity-7224760210832142336-nXq-?utm_source=share&utm_medium=member_desktop
